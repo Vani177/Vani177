@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning CSS
 
-🤍 Pronouns: She/ Her
+✨ Pronouns: She/ Her
   
 
 
