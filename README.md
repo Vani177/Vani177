@@ -11,10 +11,10 @@
 
 <a href="https://github.com/Vani177=AyushSarode&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph"> </a>
 
-
-
 <h3 align="center">A passionate Front-End Developer from India</h3>
 
+
+[![An image of @vani177's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vani177)](https://holopin.io/@vani177)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy%22%3E<img src="https://github-profile-trophy.vercel.app/?username=vani177" alt="vani177" /></a> </p>
