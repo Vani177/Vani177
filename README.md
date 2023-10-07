@@ -1,37 +1,28 @@
+  # 💫 About Me:
+🔭 Improving my Front-end development skills <br>
+🌱 Currently learning CSS <br>
+⚡ A high school student
 
-<h1 align="center"> Hey 👋, I'm Vani</h1>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vani-sharma-136957294/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/3GiqzuB) 
 
-👀 I’m interested in Web Development!
+## 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vani177&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vani177&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vani177&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-🌱 I’m currently learning CSS
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Vani177&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
 
-✨ Pronouns: She/ Her
-  
-
-
-<a href="https://github.com/Vani177=AyushSarode&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph"> </a>
-
-<h3 align="center">A passionate Front-End Developer from India</h3>
-
-
+## 🔖 My Holopin Badges
 [![An image of @vani177's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vani177)](https://holopin.io/@vani177)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy%22%3E<img src="https://github-profile-trophy.vercel.app/?username=vani177" alt="vani177" /></a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=Vani177&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<p align="left">
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vani177&show_icons=true&locale=en" alt="vani177" /></p>
-  
- <a href="http://github.com/Vani177"><img src="https://activity-graph.herokuapp.com/graph?username=AyushSarode&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-  <hr>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=vani177&label=Profile%20views&color=0e75b6&style=flat" alt="vani177" /> </p>
-  
- 
-  <!---
-Vani177/Vani177 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
